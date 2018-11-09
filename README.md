@@ -4,4 +4,5 @@ An RPG in which the player captures and researches some of the world's most exot
 Note: This is a placeholder for a project that I will be beginning soon.
 
 ## Next Actions:
-- Develop logic map
+- Develop overview diagram of game
+- Develop first map
