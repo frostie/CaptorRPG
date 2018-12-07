@@ -6,3 +6,4 @@ Note: This is a placeholder for a project that I will begin soon. I am currently
 ## Next Actions:
 - Develop game design diagram
 - Develop first map
+- Establish character controls
