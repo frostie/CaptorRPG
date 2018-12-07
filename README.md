@@ -24,7 +24,7 @@ Note: This is a placeholder for a project that I will begin soon. I am currently
 - Levelling system
 - Testing levelling
 - Stat gain
-- Game Manager
+- Game manager
 
 ## In-Game Menu
 - Menu
