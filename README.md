@@ -4,6 +4,33 @@ In this 2D RPG adventure, you will embark on an expedition to capture some of th
 Note: This is a placeholder for a project that I will begin soon. I am currently working on a text-based version of the game.
 
 ## Next Actions:
-- Develop game design diagram
-- Develop first map
-- Establish character controls
+- Game design diagram
+
+## Player
+- Spritesheet
+- Physics
+- Controls
+- Animation
+
+## Scenes
+- Tileset map
+
+## Dialog
+- Dialog box
+- Character namebars
+
+## Levelling Up
+- Player stats
+- Levelling system
+- Testing levelling
+- Stat gain
+- Game Manager
+
+## In-Game Menu
+- Menu
+- Character info.
+- Stat references
+- Stats window
+
+## Inventory
+- Items
