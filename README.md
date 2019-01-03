@@ -1,5 +1,5 @@
 # CaptorRPG
-In this 2D RPG adventure, you will embark on an expedition to capture some of the world's most exotic animals... But before you can catch them, you must solve mathematical problems - each more challenging than the last!
+In this 2D adventure RPG, you will embark on an expedition to capture some of the world's most exotic animals... But before you can catch them, you must solve mathematical problems - each more challenging than the last!
 
 Note: This is a placeholder for a project that I will begin soon. I am currently working on a text-based version of the game.
 
@@ -7,6 +7,7 @@ Genre: Educational RPG
 
 ## Next Actions:
 - Game design diagram
+- Create weapons list (tranquilizer darts and guns), used to tranquilize and capture animals
 
 ## Player
 - Spritesheet
